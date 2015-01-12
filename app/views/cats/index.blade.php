@@ -1,0 +1,1 @@
+C:\Users\gazar_000\Code\laravel\app/views/cats/index.blade.php
